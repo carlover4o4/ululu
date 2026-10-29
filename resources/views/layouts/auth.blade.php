@@ -126,11 +126,7 @@
     <main class="auth-card">
         @yield('content')
     </main>
-    </style>
-    </head>
-
-    <body>
-
+    
     </body>
 
 </html>
